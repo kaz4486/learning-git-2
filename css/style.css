@@ -11,13 +11,14 @@ body {
   margin: 0;
   text-align: center;
   background: #fbffff;
-  color: red;
+  color: #050505;
   font-size: 16px;
   line-height: 1.7;
 }
 
 article {
   text-align: center;
+  background: red;
 }
 .container {
   display: inline-block;

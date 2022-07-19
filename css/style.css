@@ -7,6 +7,10 @@
 font-header: "Arvo", serif;
 font-text: "Lato", sans-serif;
 
+ul{
+  color:blue;
+}
+
 body {
   margin: 0;
   text-align: center;
